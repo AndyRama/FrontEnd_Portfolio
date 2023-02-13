@@ -231,7 +231,6 @@ th {
 [class^="w-icon-"],
 [class*=" w-icon-"] {
   font-family: 'webflow-icons' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
